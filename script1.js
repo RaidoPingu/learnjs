@@ -1,2 +1,2 @@
 let fs = require('fs');
-fs.writefileSync('hello.txt','hello node');
+fs.writeFileSync('hello.txt','hello node');
